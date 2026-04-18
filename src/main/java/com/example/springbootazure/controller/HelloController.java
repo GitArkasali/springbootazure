@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/api")
     public String message() {
-        return "Hello Azure";
+        return "Hello Microsoft Azure ";
     }
 }
